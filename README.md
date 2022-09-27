@@ -28,9 +28,13 @@ Urban areas tend to make esimated $2,200 USD, while Suburban and Rural areas mak
 
 From the data we have analyzed, I recommend a few things to consider to help lessen the disparities between the three city types:
 
-    1. Boost the amount of drivers in Rural and Suburban areas. It appears that the number of drivers in the area affects the revenue generated.
+    1. Boost the amount of drivers in Rural and Suburban areas. 
+    It appears that the number of drivers in the area affects the revenue generated.
     
-    2. Optimize the amount of drivers in Urban areas to approach a rides-per-driver ratio of 1. Having more drivers in an unsaturated market, such as in the Suburban areas, can boost the averages seen in "PyBer Summary by City Type".
+    2. Optimize the amount of drivers in Urban areas to approach a rides-per-driver ratio of 1. 
+    Having more drivers in an unsaturated market, such as in the Suburban areas, 
+    can boost the averages seen in "PyBer Summary by City Type".
     
-    3. Provide customers in Rural areas promotional offers to increase the popularity and usage of PyBer services.
+    3. Provide customers in Rural areas promotional offers to 
+    increase the popularity and usage of PyBer services.
 
